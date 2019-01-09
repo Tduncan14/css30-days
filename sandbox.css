@@ -1,0 +1,9 @@
+
+.register-wrapper{
+    background-image: -webkit-linear-gradient(135deg,#0eeff0 30%,#088f90 90%);
+    background-image: -webkit-linear-gradient(135deg,#0eeff0 30%, #088f90 90%);
+    position: relative;
+    z-index:3;
+    padding:100px;
+    color:#999;
+}
